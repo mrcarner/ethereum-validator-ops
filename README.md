@@ -1,5 +1,7 @@
 Ethereum Validator Infrastructure & Operations
+
 Project Overview
+
 This repository documents the deployment and maintenance of high-availability Ethereum validator nodes on Linux (Ubuntu Server). This project focuses on ensuring 99.9% uptime and rigorous security hardening for decentralized infrastructure.
 
 Technical Stack
